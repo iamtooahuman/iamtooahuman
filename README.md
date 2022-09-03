@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Human's Development](humansdev.xyz)
 
-- 👨‍💻 All of my projects are available at [humansdev.xyz/projects/](humansdev.xyz/projects/)
+- 👨‍💻 All of my projects are available at [humansdev.xyz/projects/index.html](humansdev.xyz/projects/index.html)
 
 - 💬 Ask me about **programming languages that are listed in my profile.**
 
