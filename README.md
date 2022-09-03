@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Farkhad</h1>
 <h3 align="center">An introvert person</h3>
-<img align="right" alt="coding" width:"350" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<img align="right" alt="coding" width:"150" src="[https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966](https://sun9-east.userapi.com/sun9-32/s/v1/ig2/ThG09ODbaLV01WzVZsgbVzDtP7D-7kXnehwwrNDUQL2iXCoHVqvXUpamg0F4ykC5QFOECoRTGFaL_UnEzRzJzcBE.jpg?size=458x449&quality=95&type=album)">
 
 - 🔭 I’m currently working on [Human's Development](humansdev.xyz)
 
