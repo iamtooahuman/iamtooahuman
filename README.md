@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/iamtooahuman" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" alt="iamtooahuman" height="25" width="25" /></a>
+<a href="https://telegram.com/iamtooahuman" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" alt="iamtooahuman" height="25" width="25" /></a>
+<a href="https://vk.com/iamtooahuman" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/2048px-VK_Compact_Logo_%282021-present%29.svg.png" alt="iamtooahuman" height="25" width="25" /></a>
 <a href="https://twitter.com/iamtooahuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamtooahuman" height="25" width="25" /></a>
 <a href="https://instagram.com/iamtooahuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamtooahuman" height="25" width="25" /></a>
-<a href="https://vk.com/iamtooahuman" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/2048px-VK_Compact_Logo_%282021-present%29.svg.png" alt="iamtooahuman" height="25" width="25" /></a>
